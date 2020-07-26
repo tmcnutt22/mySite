@@ -11,25 +11,16 @@ body {
 }
 
 .middleContainer {
-    height: 200px;
-    width: 200px;
-    background-color: red;
 }
 
 .bottomContainer {
-    height: 200px;
-    width: 200px;
-    background-color: green;
 }
 
 h1 {
     font-weight: 100;
-    width: 10%;
-    margin: 0 auto 0 auto;
-}
 
-p {
-    font-family: inherit;
+    margin: 50px auto 0 auto;
+    font-size: 5.625rem;
 }
 
 .pro {
@@ -45,4 +36,9 @@ p {
     position: absolute;
     margin-left: 50px;
     margin-bottom: 300px;
+}
+
+.sub-title {
+    font-size: 2.5rem;
+    margin-top: 20px;
 }
